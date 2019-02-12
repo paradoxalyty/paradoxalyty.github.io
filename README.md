@@ -2,10 +2,10 @@
 
 https://github.com/paradoxalyty - github profile
 
-https://paradoxalyty.github.io/interior/
+<a href=" https://paradoxalyty.github.io/interior/" target="_blank">Interior</a>
 
-https://paradoxalyty.github.io/cuda/
+<a href=" https://paradoxalyty.github.io/cuda/" target="_blank">Cuda</a>
 
-https://paradoxalyty.github.io/webpaint/
+<a href=" https://paradoxalyty.github.io/webpaint/" target="_blank">Webpaint</a>
 
-<a href="https://paradoxalyty.github.io/product_name-FLOAT/">product_name-FLOAT</a>
+<a href="https://paradoxalyty.github.io/product_name-FLOAT/" target="_blank">Product name - FLOAT</a>
