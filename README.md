@@ -8,4 +8,4 @@ https://paradoxalyty.github.io/cuda/
 
 https://paradoxalyty.github.io/webpaint/
 
-https://paradoxalyty.github.io/product_name-FLOAT/
+<a href="https://paradoxalyty.github.io/product_name-FLOAT/">product_name-FLOAT</a>
