@@ -2,14 +2,14 @@
 
 https://github.com/paradoxalyty - github profile
 
-<a href="https://paradoxalyty.github.io/interior/" target="_blank">Interior</a>
+<a href="https://paradoxalyty.github.io/interior/">Interior</a>
 
-<a href="https://paradoxalyty.github.io/cuda/" target="_blank">Cuda</a>
+<a href="https://paradoxalyty.github.io/cuda/">Cuda</a>
 
-<a href="https://paradoxalyty.github.io/webpaint/" target="_blank">Webpaint</a>
+<a href="https://paradoxalyty.github.io/webpaint/">Webpaint</a>
 
-<a href="https://paradoxalyty.github.io/product_name-FLOAT/" target="_blank">Product name - FLOAT</a>
+<a href="https://paradoxalyty.github.io/product_name-FLOAT/">Product name - FLOAT</a>
 
-<a href="https://paradoxalyty.github.io/product_name-FLEXBOX/" target="_blank">Product name - FLEXBOX</a>
+<a href="https://paradoxalyty.github.io/product_name-FLEXBOX/">Product name - FLEXBOX</a>
 
-<a href="https://paradoxalyty.github.io/waxom/" target="_blank">Waxom</a>
+<a href="https://paradoxalyty.github.io/waxom/">Waxom</a>
