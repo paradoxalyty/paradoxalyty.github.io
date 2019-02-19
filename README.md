@@ -11,3 +11,5 @@ https://github.com/paradoxalyty - github profile
 <a href="https://paradoxalyty.github.io/product_name-FLOAT/" target="_blank">Product name - FLOAT</a>
 
 <a href="https://paradoxalyty.github.io/product_name-FLEXBOX/" target="_blank">Product name - FLEXBOX</a>
+
+<a href="https://paradoxalyty.github.io/waxom/" target="_blank">Waxom</a>
