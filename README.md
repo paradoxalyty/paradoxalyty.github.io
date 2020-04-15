@@ -8,7 +8,7 @@
 
 <a href="https://paradoxalyty.github.io/webpaint/">Webpaint</a>
 
-<a href=" https://paradoxalyty.github.io/perth/">Perth</a>
+<a href="https://paradoxalyty.github.io/perth/">Perth</a>
 
 <a href="https://paradoxalyty.github.io/product_name-FLOAT/">Product name - FLOAT</a>
 
