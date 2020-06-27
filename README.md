@@ -1,6 +1,4 @@
-# paradoxalyty.github.io
-
-<a href="https://github.com/paradoxalyty">https://github.com/paradoxalyty</a> - github profile
+# <a href="https://github.com/paradoxalyty">https://github.com/paradoxalyty</a> - my github profile
 
 <a href="https://paradoxalyty.github.io/interior/">Interior</a>
 
