@@ -1,5 +1,7 @@
 <a href="https://github.com/paradoxalyty">https://github.com/paradoxalyty</a> - my github profile
 
+<a href="https://paradoxalyty.github.io/event-diary/">Event Diary</a>
+
 <a href="https://paradoxalyty.github.io/interior/">Interior</a>
 
 <a href="https://paradoxalyty.github.io/cuda/">Cuda</a>
