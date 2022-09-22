@@ -19,3 +19,5 @@
 <a href="https://paradoxalyty.github.io/ReactWarriors/">ReactWarriors</a>
 
 <a href = "https://paradoxalyty.github.io/sudoku/">sudoku</a>
+
+<a href = "https://paradoxalyty.github.io/tlusteck/">Tlusteck</a>
