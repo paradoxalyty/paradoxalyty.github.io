@@ -1,5 +1,7 @@
 <a href="https://github.com/paradoxalyty">https://github.com/paradoxalyty</a> - my github profile
 
+<a href="https://paradoxalyty.github.io/react-movie-search/">react-movie-search</a>
+
 <a href="https://paradoxalyty.github.io/event-diary/">Event Diary</a>
 
 <a href="https://paradoxalyty.github.io/interior/">Interior</a>
@@ -15,8 +17,6 @@
 <a href="https://paradoxalyty.github.io/product_name-FLEXBOX/">Product name - FLEXBOX</a>
 
 <a href="https://paradoxalyty.github.io/waxom/">Waxom</a>
-
-<a href="https://paradoxalyty.github.io/ReactWarriors/">ReactWarriors</a>
 
 <a href = "https://paradoxalyty.github.io/sudoku/">sudoku</a>
 
