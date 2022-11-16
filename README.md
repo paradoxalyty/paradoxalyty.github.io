@@ -4,6 +4,10 @@
 
 <a href="https://paradoxalyty.github.io/event-diary/">Event Diary</a> - React
 
+<a href="https://www.broiler-bar.de/">https://www.broiler-bar.de/</a>
+
+<a href="https://www.tlusteck-salesandmore.de/">https://www.tlusteck-salesandmore.de/</a>
+
 <a href="https://paradoxalyty.github.io/interior/">Interior</a>
 
 <a href="https://paradoxalyty.github.io/cuda/">Cuda</a>
@@ -19,5 +23,3 @@
 <a href="https://paradoxalyty.github.io/waxom/">Waxom</a>
 
 <a href = "https://paradoxalyty.github.io/sudoku/">sudoku</a>
-
-<a href = "https://paradoxalyty.github.io/tlusteck/">Tlusteck</a>
