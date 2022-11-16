@@ -1,8 +1,8 @@
 <a href="https://github.com/paradoxalyty">https://github.com/paradoxalyty</a> - my github profile
 
-<a href="https://paradoxalyty.github.io/react-movie-search/">react-movie-search</a>
+<a href="https://paradoxalyty.github.io/react-movie-search/">react-movie-search</a> - react
 
-<a href="https://paradoxalyty.github.io/event-diary/">Event Diary</a>
+<a href="https://paradoxalyty.github.io/event-diary/">Event Diary</a> - react
 
 <a href="https://paradoxalyty.github.io/interior/">Interior</a>
 
